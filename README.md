@@ -32,3 +32,9 @@ To use this code:
 2. Clone the repository.
 3. Place the images you want to analyze in a folder named `pictures` within the cloned repository.
 4. Run the script. The output will display the number of Bulbasaurs counted in each image and the Mean Absolute Error (MAE) across all images.
+
+## Results
+
+![picture_6](https://github.com/lara-petkovic/BulbasaurCounter/assets/116621727/56910cac-7fe5-49e7-b363-7bf819e27a2e)
+
+![picture_10](https://github.com/lara-petkovic/BulbasaurCounter/assets/116621727/68034c8b-596a-4275-aa3c-8177c914b6b7)
