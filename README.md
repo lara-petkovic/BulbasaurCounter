@@ -1,4 +1,4 @@
-# Bulbasour Counter
+# Bulbasaur Counter
 
 This code is designed to count the number of Bulbasaurs in images where other Pokémon might be present, excluding those other Pokémon from the count. The counting is based on image processing techniques, particularly contour detection and morphological operations.
 
